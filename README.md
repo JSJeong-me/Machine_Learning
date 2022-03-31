@@ -1,5 +1,5 @@
 # Machine_Learning
-Hansung Univ. Machine Learning 2022
+Machine Learning 2022
 
 ### Python 개발환경 설치 (Conda 설치)
 
