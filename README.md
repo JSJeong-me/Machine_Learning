@@ -1,5 +1,5 @@
-# Machine_Learning
-Machine Learning 2022
+# Machine_Learning 2022
+
 
 ### Python 개발환경 설치 (Conda 설치)
 
