@@ -26,3 +26,7 @@
   
       x = 5
       print(type(x))
+
+### Python 교안
+
+    https://url.kr/qmywib
