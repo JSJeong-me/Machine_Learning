@@ -1,0 +1,8 @@
+def sub(c, d):
+  val = c-d
+  return val
+
+def multi_func(a, b=80):
+  x = a+b
+  y = a*b
+  return x, y
