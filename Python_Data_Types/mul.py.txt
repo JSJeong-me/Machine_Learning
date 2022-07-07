@@ -1,0 +1,4 @@
+def multi_func(a, b=90):
+  c = a+b
+  d = a*b
+  return c, d
